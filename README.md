@@ -208,8 +208,7 @@ https://code.earthengine.google.com/8fd4227ad0a83235d98a35923c5a2be9
 https://colab.research.google.com/drive/1Iklx0HkCFddG5rC6jsNIwFbCTWypAayp
 
 **Data validation**
-
-https://colab.research.google.com/drive/1kSm_zV2zX6gmvrXCzu80K6e7QDmKsUD
+https://colab.research.google.com/drive/1kSm_zV2zX6gmvrXCzu80-K6e7QDmKsUD
 
 **Maps**
 
